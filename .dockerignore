@@ -1,3 +1,26 @@
+# Python cache
 __pycache__/
 *.pyc
-.env
+
+# Virtual environments
+.venv/
+env/
+
+# IDE/project config
+.idea/
+
+# LaTeX build/output files
+*.aux
+*.log
+*.out
+*.toc
+
+# Screenshots and figures
+TL_Clustering_Example.png
+TL_Data_Summary_Example.png
+TL_Prediction_Example.png
+TL_Project_Class_Diagram.png
+TL_Project_Use_Case_Diagram.png
+
+# PDF report
+TL_Project_report.pdf
